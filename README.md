@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avinash-Parashar
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning classification in ML
-- 💞️ I’m looking to collaborate on ML projects and any python related projects.
+- 👀 I’m interested in Web Development back-end in particular. 
+- 🌱 I’m currently studying APIs. 
+- 💞️ I’m looking to collaborate on web development projects and any python related projects.
 - 📫 contact linkedin - https://www.linkedin.com/in/avinash-parashar-a85b10215
 
 <!---
