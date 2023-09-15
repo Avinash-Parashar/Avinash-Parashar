@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avinash-Parashar
 - 👀 I’m interested in Machine Learning and Web Development, back-end in particular. 
-- 🌱 I’m currently studying APIs, Tensorflow, Modeling of data.
-- 💞️ I’m looking to collaborate on Machine Learning projects, web development projects and any python related projects.
+- 🌱 I’m currently studying APIs, Java.
+- 💞️ I’m looking to collaborate on Machine Learning projects, web development projects and any java related projects.
 - 📫 contact linkedin - https://www.linkedin.com/in/avinash-parashar-a85b10215
 
 <!---
